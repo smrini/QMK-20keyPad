@@ -19,10 +19,16 @@ Attention:
   	You can modify the code and layers to whatever it suits you.
 
 Useful Resources:
+
 	* [keykodes list](https://docs.qmk.fm/#/keycodes)
+ 
  	* [Matrix and hand wiring](https://docs.qmk.fm/#/hand_wire)
+  
   	* [more about info.json file](https://github.com/qmk/qmk_firmware/blob/master/docs/reference_info_json.md)
+   
    	* [More about the Keymap.c file](https://github.com/qmk/qmk_firmware/blob/master/docs/keymap.md)
+    
     	* [RGB Light](https://docs.qmk.fm/#/feature_rgblight)
+     
      	* [Command Line](https://github.com/qmk/qmk_firmware/blob/master/docs/cli_commands.md)
 	
