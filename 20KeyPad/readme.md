@@ -19,7 +19,7 @@ Attention:
   	You can modify the code and layers to whatever it suits you.
 
    	if you desided to use a different pins, you mast change the PinOuts on the info.json file.
-    	if you desided to use a different MicroController, you mast change some related information on the info.json file.
+    if you desided to use a different MicroController, you mast change some related information on the info.json file.
 
 Useful Resources:
 
