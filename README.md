@@ -20,7 +20,7 @@ copper wires
 
 Software Arsenal:
 
-QMK Firmware (https://docs.qmk.fm/)
+[QMK Firmware](https://docs.qmk.fm/)
 MSYS2 with appropriate toolchain (optional, alternative IDEs or command-line tools are viable) (https://git-scm.com/downloads)
 Text editor or IDE of your choice (e.g., Visual Studio Code)
 Comprehensive Documentation:
