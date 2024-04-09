@@ -18,6 +18,9 @@ Attention:
  	just download the files, open QMK MSYS and use this command: qmk flash -kb C:/thePath/to/theDownloaded/file/20KeyPad -km smrini.
   	You can modify the code and layers to whatever it suits you.
 
+   	if you desided to use a different pins, you mast change the PinOuts on the info.json file.
+    	if you desided to use a different MicroController, you mast change some related information on the info.json file.
+
 Useful Resources:
 
 * [keykodes list](https://docs.qmk.fm/#/keycodes)
