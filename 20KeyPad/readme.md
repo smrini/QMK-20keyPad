@@ -13,6 +13,7 @@ Hardware Availability:
 You can use the switches and keycaps that suits you.
 
 Attention:
+
 	You can compile and use the code as it is as long as you are using the same microcontroller and the same pins used in the schamatic.
  	just download the files, open QMK MSYS and use this command: qmk flash -kb C:/thePath/to/theDownloaded/file/20KeyPad -km smrini.
   	You can modify the code and layers to what ever it suits you.
