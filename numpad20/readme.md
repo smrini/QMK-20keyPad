@@ -3,9 +3,13 @@
 Custom hand-wired 20 keypad.
 
 Creator: Said Mrini
+
 Personal Website: www.saidmrini.com
+
 Keyboard Maintainer:  https://github.com/smrini
+
 Hardware the used microController: rp2040zero
+
 Hardware Availability: 
 
 [rp2040zero]([url](https://es.aliexpress.com/item/1005006051130777.html?spm=a2g0o.order_list.order_list_main.5.7e11194df29kxx&gatewayAdapt=glo2esp))
