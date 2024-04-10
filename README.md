@@ -16,13 +16,24 @@ Building Your Macro Keypad:
 
 Hardware Procurement:
 
-RP2040 microcontroller board (e.g., Raspberry Pi Pico)
-20 Mechanical keyboard switches (select the switch type that best suits your typing preference – tactile, clicky, or linear)
-Keycaps (ensure compatibility with your chosen switches)
-Diodes (optional, for improved matrix scanning)
-copper wires
-3D-printer (Or Order it online)
+* RP2040 microcontroller board (e.g., Raspberry Pi Pico)
+* 20 Mechanical keyboard switches (select the switch type that best suits your typing preference – tactile, clicky, or linear)
+* Keycaps (ensure compatibility with your chosen switches)
+* Diodes (optional, for improved matrix scanning)
+* copper wires
+* 3D-printer (Or Order it online)
 
+Required Skills:
+
+* The knoledge of what is command line.
+* An idea about QMK MSYS Comands.
+* Previous use of Visual Studio (If you are planing to use modify the code).
+* Soldering skills
+
+Advanced skills:
+* C programming.
+* .json files.
+* qmk firmware.
 
 Software Arsenal:
 
