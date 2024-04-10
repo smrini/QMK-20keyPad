@@ -1,7 +1,7 @@
 # Custom QMk 20KeyPad 
 Unleash enhanced productivity and personalize your workflow with this customizable 20-key macro keypad. This project empowers you to craft intricate macros, shortcuts, and key combinations that seamlessly integrate with your existing setup.
 
-Key Advantages:
+# Key Advantages:
 
 QMK Compatibility: QMK unlocks a universe of possibilities – program sophisticated macros, intricate key combinations, and layer functionalities to tailor the keypad precisely to your needs.
 
@@ -11,7 +11,10 @@ RP2040 Microcontroller: The RP2040zero ensures smooth performance for a cheap pr
 
 Multi layer design: 
 
-Building Your Macro Keypad:
+Embrace Customization: This project serves as a foundation for your creativity! Feel free to adapt the design to your preferred layout to create functionalities that perfectly align with your workflow.
+
+
+# Building Your Macro Keypad:
 
 Hardware Procurement:
 
@@ -36,18 +39,15 @@ Advanced skills:
 
 Software Arsenal:
 
-[QMK Firmware](https://docs.qmk.fm/)
+* [QMK Firmware](https://docs.qmk.fm/)
 
-Text editor or IDE of your choice (e.g., Visual Studio Code)
+* Text editor or IDE of your choice (e.g., Visual Studio Code)
 
-Comprehensive Documentation:
+# Documentation:
 
 Detailed instructions for hardware assembly, firmware flashing, and keymap configuration will be readily available within the project repository. Additionally, the repository may include resources or links to helpful guides that provide further assistance with the build and programming process.
 
-Embrace Customization:
 
-This project serves as a foundation for your creativity! Feel free to adapt the design to your preferred layout, customize keycaps to match your aesthetic, and explore the vast possibilities of QMK to create functionalities that perfectly align with your workflow.
-
-Contributing to the Project:
+# Contributions:
 
 This is a collaborative effort! We welcome contributions from the keyboard enthusiast community. Submit pull requests with enhancements, bug fixes, or innovative features to help us build a robust and feature-rich macro keypad solution.
