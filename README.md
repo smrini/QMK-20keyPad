@@ -3,15 +3,11 @@ Unleash enhanced productivity and personalize your workflow with this customizab
 
 # Key Advantages:
 
-QMK Compatibility: QMK unlocks a universe of possibilities – program sophisticated macros, intricate key combinations, and layer functionalities to tailor the keypad precisely to your needs.
-
-20-Key Matrix Design: This space-saving matrix layout allows you to create a compact yet efficient keypad that perfectly complements your workspace. Whether you favor dedicated media controls, application launchers, or complex macros...
-
-RP2040 Microcontroller: The RP2040zero ensures smooth performance for a cheap price. 
-
-Multi layer design: 
-
-Embrace Customization: This project serves as a foundation for your creativity! Feel free to adapt the design to your preferred layout to create functionalities that perfectly align with your workflow.
+* QMK Compatibility: QMK unlocks a universe of possibilities – program sophisticated macros, intricate key combinations, and layer functionalities to tailor the keypad precisely to your needs.
+* 20-Key Matrix Design: Space-saving matrix layout that allows you to create a compact yet efficient keypad that perfectly complements your workspace. Whether you favor dedicated media controls, application launchers, or complex macros...
+* RP2040 Microcontroller: The RP2040zero ensures smooth performance for a cheap price. 
+* Multi layer design: A fonctionality that gives the ability to of doing more than one thing to the same switch. or maybe difrent layout to difrent use.
+* Embrace Customization: This project serves as a foundation for your creativity! Feel free to adapt the design to your preferred layout to create functionalities that perfectly align with your workflow.
 
 
 # Building Your Macro Keypad:
