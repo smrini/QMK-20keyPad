@@ -37,6 +37,7 @@ Advanced skills:
 Software Arsenal:
 
 [QMK Firmware](https://docs.qmk.fm/)
+
 Text editor or IDE of your choice (e.g., Visual Studio Code)
 
 Comprehensive Documentation:
