@@ -11,7 +11,6 @@ RP2040 Microcontroller: The RP2040zero ensures smooth performance for a cheap pr
 
 Multi layer design: 
 
-
 Building Your Macro Keypad:
 
 Hardware Procurement:
