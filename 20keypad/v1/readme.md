@@ -1,6 +1,6 @@
 # Handwired 20keyPad v1
 
-![20KeyPad](https://imgur.com/a/k4LNlUb)
+![20KeyPad](https://i.imgur.com/wV9lJPd.jpeg)
 
 A 20 Key (4x5) Macropad (4x5) that could be reprogrammed to suit your needs, it has got 3 layers, and all the needed files are included (QMK files, 3D printables files, Buttons labels...). [More info on my github](https://github.com/smrini/QMK-20keyPad)
 
