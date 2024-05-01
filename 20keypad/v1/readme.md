@@ -1,5 +1,9 @@
 # Handwired 20keyPad v1
 
+![Planck](https://i.imgur.com/q2M3uEU.jpg)
+
+A 20 Key (4x5) Macropad (4x5) that could be reprogrammed to suit your needs, it has got 3 layers, and all the needed files are included (QMK files, 3D printables files, Buttons labels...). [More info on my github](https://github.com/smrini/QMK-20keyPad)
+
 - Keyboard Maintainer: [Said Mrini](https://github.com/smrini).
 - Personal Website: www.saidmrini.com
 
@@ -18,8 +22,10 @@
    	if you desided to use a different pins, you mast change the PinOuts on the info.json file.
     if you desided to use a different MicroController, you mast change some related information on the info.json file.
     
-### Flashing example for this keyboard:
+### Make example for this keyboard:
+	qmk make -kb handwired/20keypad/v1 -km default
 
+### Flash example for this keyboard:
     qmk flash -kb handwired/20keypad/v1 -km default
 
 
