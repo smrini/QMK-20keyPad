@@ -43,6 +43,8 @@ Software Arsenal:
 
 Detailed instructions for hardware assembly, firmware flashing, and keymap configuration will be readily available within the project repository. Additionally, the repository may include resources or links to helpful guides that provide further assistance with the build and programming process.
 
+You can find further information about the 3D model on my [Printables](https://www.printables.com/@GreenBit_1562343) Profile or [Here](https://www.printables.com/model/841830-qmk-20keymacropad).
+
 
 # Contributions:
 
