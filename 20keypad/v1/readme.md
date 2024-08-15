@@ -1,6 +1,6 @@
 # Handwired 20keyPad v1
 
-![20KeyPad](https://i.imgur.com/wV9lJPd.jpeg)
+![20KeyPad](https://i.imgur.com/QY72Sxf.jpg)
 
 A 20 Key (4x5) Macropad (4x5) that could be reprogrammed to suit your needs, it has got 3 layers, and all the needed files are included (QMK files, 3D printables files, Buttons labels...). [More info on my github](https://github.com/smrini/QMK-20keyPad)
 
@@ -14,13 +14,13 @@ A 20 Key (4x5) Macropad (4x5) that could be reprogrammed to suit your needs, it 
 
 ### Attention:
 
-	You can compile and use the code as it is as long as you are using the same microcontroller and the same pins used in the schematic.
+	You can compile and use the code as you wish as long as you are using the same microcontroller and the same pins used in the schematic.
  	just download the files, open QMK MSYS and use this command: qmk flash -kb C:/thePath/to/theDownloaded/file/20KeyPad -km smrini.
   	You can modify the code and layers to whatever it suits you.
 
 
-   	if you desided to use a different pins, you mast change the PinOuts on the info.json file.
-    if you desided to use a different MicroController, you mast change some related information on the info.json file.
+   	if you decide to use different pins, you must change the PinOuts on the info.json file.
+    if you decide to use a different MicroController, you must change some related information on the info.json file.
     
 ### Make example for this keyboard:
 	qmk make -kb handwired/20keypad/v1 -km default
