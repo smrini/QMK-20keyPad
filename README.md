@@ -4,9 +4,9 @@ Unleash enhanced productivity and personalize your workflow with this customizab
 # Key Advantages:
 
 * QMK Compatibility: QMK unlocks a universe of possibilities – program sophisticated macros, intricate key combinations, and layer functionalities to tailor the keypad precisely to your needs.
-* 20-Key Matrix Design: Space-saving matrix layout that allows you to create a compact yet efficient keypad that perfectly complements your workspace. Whether you favor dedicated media controls, application launchers, or complex macros...
+* 20-Key Matrix Design: Space-saving matrix layout that allows you to create a compact yet efficient keypad that perfectly complements your workspace. Whether you favour dedicated media controls, application launchers, or complex macros...
 * RP2040 Microcontroller: The RP2040zero ensures smooth performance for a cheap price. 
-* Multi layer design: A fonctionality that gives the ability to of doing more than one thing to the same switch. or maybe difrent layout to difrent use.
+* Multi-layer design: A functionality that gives the ability to do more than one thing to the same switch. or maybe a different layout for different uses.
 * Embrace Customization: This project serves as a foundation for your creativity! Feel free to adapt the design to your preferred layout to create functionalities that perfectly align with your workflow.
 
 
@@ -23,9 +23,9 @@ Hardware Procurement:
 
 Required Skills:
 
-* The knoledge of what is command line.
-* An idea about QMK MSYS Comands.
-* Previous use of Visual Studio (If you are planing to use modify the code).
+* The knowledge of what is command line.
+* An idea about QMK MSYS Commands.
+* Previous use of Visual Studio (If you are planning to modify the code).
 * Soldering skills
 
 Advanced skills:
@@ -45,7 +45,7 @@ Software Arsenal:
 
 Detailed instructions for hardware assembly, firmware flashing, and keymap configuration will be readily available within the project repository. Additionally, the repository may include resources or links to helpful guides that provide further assistance with the build and programming process.
 
-You can find further information about the 3D model on my [Printables](https://www.printables.com/@GreenBit_1562343) Profile or [Here](https://www.printables.com/model/841830-qmk-20keymacropad).
+You can find further information about the 3D model on my [Printables](https://www.printables.com/@GreenBit_1562343) Profile. Also [Here](https://www.printables.com/model/841830-qmk-20keymacropad), or directly [Here](https://github.com/smrini/QMK-20keyPad/tree/main/Assets/Building%20Guide).
 
 
 # Contributions:
